@@ -1,0 +1,45 @@
+body{background-image:url('tamanna-rumee-eD1RNYzzUxc-unsplash.jpg');
+background-position:;
+background-size: cover;
+}
+h1{
+    font-family: Zen Tokyo Zoo;
+    position: absolute;
+    left: 350px;
+    top: 300px;
+    font-size: 100px;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+   
+    color: white;
+   }
+   
+   .navbar-links ul{
+       margin: 0;
+       padding: 0;
+       display: flex;
+      
+   }
+   .navbar-links li{
+       list-style: none; 
+       
+   }
+   .navbar-links li a{
+       text-decoration: none;
+       
+      padding: 10px;
+       display: block;
+       
+      
+   }
+   .navbar-links li :hover{
+       
+       background-color:black;
+       border-radius: 50%;
+       
+   }

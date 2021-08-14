@@ -1,0 +1,46 @@
+img{
+    width: 200px;
+    height: 200px;
+    border: solid burlywood 5px;
+    border-radius: 50px;
+}
+.row align-items-start{
+    
+    border: burlywood 10px solid;
+}
+
+body{
+    background-color:navy;
+    background-image: url('images (7).jpg');
+    color: burlywood;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+}
+#nav{
+    opacity: ;
+    background-color:gray ;
+   
+}
+#nav a{
+    color: black;
+}
+.one:hover{
+    cursor: cell;
+    border-color: burlywood;
+    background-color: burlywood;
+}
+.two:hover{
+    cursor: pointer;
+    border-color: cyan;
+    background-color: cyan;
+}
+img:hover{
+    height: 250px;
+    width:250px;
+    background-color: blue;
+    
+}
+h5{
+    color: white;
+}
